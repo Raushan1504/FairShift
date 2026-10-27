@@ -198,12 +198,6 @@ npm test
 
 ---
 
-## 🚀 Google Cloud Run Deployment Guide
-
-> [!IMPORTANT]
-> **Prompt Wars Mandatory Rule:** Google Cloud Run is the **strictly mandatory final host**. Submissions with Vercel or Netlify links are strictly rejected.
-
-FairShift includes a multi-stage production [Dockerfile](file:///d:/Sahayta/Dockerfile) and [server.js](file:///d:/Sahayta/server.js) that automatically binds to `$PORT` (default 8080) for Cloud Run.
 
 ### Step 1: Test Locally
 ```bash
